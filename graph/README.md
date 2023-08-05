@@ -1,5 +1,7 @@
 # Project Name
-> Here goes your awesome project description!
+> Two simple tasks:
+> 1. Draw and pain function 
+> 2. DIY Conflate queue implementation for a trading system. producer and consumer pattern
 
 # Requirement
 * Command 		    Description
